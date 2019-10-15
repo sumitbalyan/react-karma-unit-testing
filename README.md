@@ -13,6 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Preview images
 
-![alt text](images/karma_html_coverage.png)
+![alt text](https://github.com/sumitbalyan/react-karma-unit-testing/blob/master/images/karma_coverage_cmd.PNG)
 
-![alt text](images/karma_coverage_cmd.png)
+![alt text](https://github.com/sumitbalyan/react-karma-unit-testing/blob/master/images/karma_html_coverage.PNG)
